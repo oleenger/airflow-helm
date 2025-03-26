@@ -70,8 +70,8 @@ airflow:
   ## - `role` can be a single role or a list of roles
   ##
   users:
-    - username: admin
-      password: admin
+    - username: admin2
+      password: admin2
       role: Admin
       email: admin@example.com
       firstName: admin
